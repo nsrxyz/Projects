@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SomeGIS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="server_client_id">456309300173-nbcekc7n2gbini763jiriro5rhgonnog.apps.googleusercontent.com</string>
+    <string name="NewProject">New Project</string>
+    <string name="LoadProject">Load Project</string>
+    <string name="Exit">Exit</string>
+    <string name="Add">Add</string>
+    <string name="Load">Load</string>
+    <string name="CurrentProperties">Properties</string>
+    <string name="choose_title">Choose</string>
+    <string name="PLP">1 for point</string>
+    <string name="ChooseType">Type the type</string>
+    <string name="p3">3 for polygon</string>
+    <string name="l2">2 for line</string>
+    <string name="add_title">Add</string>
+    <string name="ChooseColor">Choose Color</string>
+    <string name="TypeName">Type object\'s name</string>
+    <string name="Create">Create an object</string>
+    <string name="props_title">Properties</string>
+    <string name="Update">Update</string>
+    <string name="Or">Or</string>
+    <string name="Delete2">Delete</string>
+    <string name="Choose">Choose</string>
+    <string name="New">New</string>
+</resources>
